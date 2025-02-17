@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: d02f4cc01e10aec4eae8350f266d08b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2829140014585421371
+    second: strokecitysecondcityprops0003_0
+  - first:
+      213: 6507988989424971159
+    second: strokecitysecondcityprops0003_1
+  - first:
+      213: -7831205310746993126
+    second: strokecitysecondcityprops0003_2
+  - first:
+      213: -1814147130900888607
+    second: strokecitysecondcityprops0003_3
+  - first:
+      213: -582510334112679900
+    second: strokecitysecondcityprops0003_4
+  - first:
+      213: -6991467512620892746
+    second: strokecitysecondcityprops0003_5
+  - first:
+      213: -8408128243738568891
+    second: strokecitysecondcityprops0003_6
+  - first:
+      213: 7462929415470003623
+    second: strokecitysecondcityprops0003_7
+  - first:
+      213: 462292800727077125
+    second: strokecitysecondcityprops0003_8
+  - first:
+      213: 564233130756306365
+    second: strokecitysecondcityprops0003_9
+  - first:
+      213: -3465800082136249754
+    second: strokecitysecondcityprops0003_10
+  - first:
+      213: -2030158142818817458
+    second: strokecitysecondcityprops0003_11
+  - first:
+      213: 2458753987563684246
+    second: strokecitysecondcityprops0003_12
+  - first:
+      213: 3550469698785032829
+    second: strokecitysecondcityprops0003_13
+  - first:
+      213: 8981102254232101954
+    second: strokecitysecondcityprops0003_14
+  - first:
+      213: 3777012689338394998
+    second: strokecitysecondcityprops0003_15
+  - first:
+      213: 2177332227529881121
+    second: strokecitysecondcityprops0003_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_0
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1493
+        width: 226
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e15359adf134720800000000000000
+      internalID: 2829140014585421371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_1
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1494
+        width: 226
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d24dc4185015a50800000000000000
+      internalID: 6507988989424971159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_2
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1345
+        width: 92
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ed5c9e248f15390800000000000000
+      internalID: -7831205310746993126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 736
+        width: 238
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3cb54dbcad2d6e0800000000000000
+      internalID: -1814147130900888607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_4
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1097
+        width: 295
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4283839ffe18ae7f0800000000000000
+      internalID: -582510334112679900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_5
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1049
+        width: 58
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd3c83f65159fe90800000000000000
+      internalID: -6991467512620892746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_6
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1046
+        width: 151
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547980619e3505b80800000000000000
+      internalID: -8408128243738568891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_7
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1058
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a537e853c6a19760800000000000000
+      internalID: 7462929415470003623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_8
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1057
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501de895ad46a6600800000000000000
+      internalID: 462292800727077125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_9
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1057
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db57c310b0f84d700800000000000000
+      internalID: 564233130756306365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_10
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1057
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66acfb9103107efc0800000000000000
+      internalID: -3465800082136249754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_11
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1058
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4aea63eced63d3e0800000000000000
+      internalID: -2030158142818817458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_12
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 637
+        width: 468
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6910fc289bf3f1220800000000000000
+      internalID: 2458753987563684246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_13
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 677
+        width: 295
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7abedd316dc54130800000000000000
+      internalID: 3550469698785032829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 14
+        width: 36
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244e6f29ae843ac70800000000000000
+      internalID: 8981102254232101954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 113
+        width: 525
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679682c8705aa6430800000000000000
+      internalID: 3777012689338394998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strokecitysecondcityprops0003_16
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 159
+        width: 525
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126bdebff10773e10800000000000000
+      internalID: 2177332227529881121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      strokecitysecondcityprops0003_0: 2829140014585421371
+      strokecitysecondcityprops0003_1: 6507988989424971159
+      strokecitysecondcityprops0003_10: -3465800082136249754
+      strokecitysecondcityprops0003_11: -2030158142818817458
+      strokecitysecondcityprops0003_12: 2458753987563684246
+      strokecitysecondcityprops0003_13: 3550469698785032829
+      strokecitysecondcityprops0003_14: 8981102254232101954
+      strokecitysecondcityprops0003_15: 3777012689338394998
+      strokecitysecondcityprops0003_16: 2177332227529881121
+      strokecitysecondcityprops0003_2: -7831205310746993126
+      strokecitysecondcityprops0003_3: -1814147130900888607
+      strokecitysecondcityprops0003_4: -582510334112679900
+      strokecitysecondcityprops0003_5: -6991467512620892746
+      strokecitysecondcityprops0003_6: -8408128243738568891
+      strokecitysecondcityprops0003_7: 7462929415470003623
+      strokecitysecondcityprops0003_8: 462292800727077125
+      strokecitysecondcityprops0003_9: 564233130756306365
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

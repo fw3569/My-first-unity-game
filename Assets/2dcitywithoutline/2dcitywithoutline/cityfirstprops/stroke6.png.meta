@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 3e0981fc70b486f429e1c4e1c57d480a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1517489810015597963
+    second: stroke6_0
+  - first:
+      213: 7772356407483866650
+    second: stroke6_1
+  - first:
+      213: -1142814819971121675
+    second: stroke6_2
+  - first:
+      213: -4558038961612251905
+    second: stroke6_3
+  - first:
+      213: 6097096671562501019
+    second: stroke6_4
+  - first:
+      213: -3547047896605004546
+    second: stroke6_5
+  - first:
+      213: 630536826894244481
+    second: stroke6_6
+  - first:
+      213: 8541153707333174003
+    second: stroke6_7
+  - first:
+      213: -3536127571336128188
+    second: stroke6_8
+  - first:
+      213: -4273472523952785210
+    second: stroke6_9
+  - first:
+      213: 4520935096421359219
+    second: stroke6_10
+  - first:
+      213: -6710413750247282849
+    second: stroke6_11
+  - first:
+      213: 2821866728057124296
+    second: stroke6_12
+  - first:
+      213: 8851779010293737124
+    second: stroke6_13
+  - first:
+      213: -2695038471783486592
+    second: stroke6_14
+  - first:
+      213: 6416974436676332620
+    second: stroke6_15
+  - first:
+      213: 5259066650277141159
+    second: stroke6_16
+  - first:
+      213: -3757625113344784204
+    second: stroke6_17
+  - first:
+      213: -8717160479752388923
+    second: stroke6_18
+  - first:
+      213: -3817783336364790393
+    second: stroke6_19
+  - first:
+      213: 4639602347894499876
+    second: stroke6_20
+  - first:
+      213: -8577031766289011902
+    second: stroke6_21
+  - first:
+      213: -2359237095464780108
+    second: stroke6_22
+  - first:
+      213: 4343246801211901292
+    second: stroke6_23
+  - first:
+      213: 2815064142633495380
+    second: stroke6_24
+  - first:
+      213: 1217867832836432935
+    second: stroke6_25
+  - first:
+      213: -1045090621914994280
+    second: stroke6_26
+  - first:
+      213: -8776925439772153555
+    second: stroke6_27
+  - first:
+      213: 8930462645286493254
+    second: stroke6_28
+  - first:
+      213: 3709458261797730401
+    second: stroke6_29
+  - first:
+      213: -9051374166773631583
+    second: stroke6_30
+  - first:
+      213: 9043230436535928802
+    second: stroke6_31
+  - first:
+      213: -8509938199830635026
+    second: stroke6_32
+  - first:
+      213: -6407860916928401629
+    second: stroke6_33
+  - first:
+      213: 2280659276470581877
+    second: stroke6_34
+  - first:
+      213: -1124421301512520789
+    second: stroke6_35
+  - first:
+      213: -3486372855648372269
+    second: stroke6_36
+  - first:
+      213: -3052764809382150443
+    second: stroke6_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stroke6_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1560
+        width: 294
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57acebbce0bc0fae0800000000000000
+      internalID: -1517489810015597963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1859
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e9ecf09f4fcdb60800000000000000
+      internalID: 7772356407483866650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1830
+        width: 139
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdb193e9f7e320f0800000000000000
+      internalID: -1142814819971121675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_3
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1384
+        width: 548
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc16b4c6b79eb0c0800000000000000
+      internalID: -4558038961612251905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1479
+        width: 228
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b03b57e1d3d9450800000000000000
+      internalID: 6097096671562501019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_5
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1519
+        width: 132
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcef892bba56cec0800000000000000
+      internalID: -3547047896605004546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1139
+        width: 177
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a55d047ed10c800800000000000000
+      internalID: 630536826894244481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1111
+        width: 320
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2ca993b06488670800000000000000
+      internalID: 8541153707333174003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_8
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1149
+        width: 142
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4499b0685b62deec0800000000000000
+      internalID: -3536127571336128188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_9
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1162
+        width: 167
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8f66c916391b4c0800000000000000
+      internalID: -4273472523952785210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 790
+        width: 56
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e9aca64869dbe30800000000000000
+      internalID: 4520935096421359219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 790
+        width: 64
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f572d985f32dfd2a0800000000000000
+      internalID: -6710413750247282849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_12
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 790
+        width: 79
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5b65996d8492720800000000000000
+      internalID: 2821866728057124296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_13
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 790
+        width: 69
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a621d27c16d7da70800000000000000
+      internalID: 8851779010293737124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_14
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 813
+        width: 84
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b6551f9cc499ad0800000000000000
+      internalID: -2695038471783486592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_15
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 813
+        width: 82
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cead6604cad0950800000000000000
+      internalID: 6416974436676332620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_16
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 814
+        width: 63
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa5fd33145fbf840800000000000000
+      internalID: 5259066650277141159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_17
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 814
+        width: 82
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b84fff3edb3adbc0800000000000000
+      internalID: -3757625113344784204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_18
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 814
+        width: 82
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cef84aaabc660780800000000000000
+      internalID: -8717160479752388923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_19
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 814
+        width: 82
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d22967842840bc0800000000000000
+      internalID: -3817783336364790393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_20
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 814
+        width: 79
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ae155f0cd236040800000000000000
+      internalID: 4639602347894499876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_21
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 814
+        width: 83
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b2a173d0348f880800000000000000
+      internalID: -8577031766289011902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_22
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 596
+        width: 25
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beb5e78c5e424fd0800000000000000
+      internalID: -2359237095464780108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_23
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 569
+        width: 126
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65461644ff464c30800000000000000
+      internalID: 4343246801211901292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_24
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 594
+        width: 26
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45beb914ced111720800000000000000
+      internalID: 2815064142633495380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_25
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 596
+        width: 25
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7242797675cb6e010800000000000000
+      internalID: 1217867832836432935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_26
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 548
+        width: 154
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8992aa2dd971f71f0800000000000000
+      internalID: -1045090621914994280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_27
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 555
+        width: 125
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29aa4e80d8123680800000000000000
+      internalID: -8776925439772153555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_28
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 552
+        width: 129
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c5234d5706feb70800000000000000
+      internalID: 8930462645286493254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_29
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 7
+        width: 282
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1687793b2a4aa7330800000000000000
+      internalID: 3709458261797730401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_30
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 6
+        width: 134
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a57f4cc62f036280800000000000000
+      internalID: -9051374166773631583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_31
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 7
+        width: 102
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e789bf3b22008d70800000000000000
+      internalID: 9043230436535928802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_32
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 12
+        width: 74
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed519a7b40a6e980800000000000000
+      internalID: -8509938199830635026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_33
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 12
+        width: 106
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32faf544274b217a0800000000000000
+      internalID: -6407860916928401629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_34
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 225
+        width: 98
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a7abb478786af10800000000000000
+      internalID: 2280659276470581877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_35
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 219
+        width: 99
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babb671a8c04560f0800000000000000
+      internalID: -1124421301512520789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_36
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 17
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9b3800c5aed9fc0800000000000000
+      internalID: -3486372855648372269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke6_37
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 22
+        width: 99
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deb6f1849662a5d0800000000000000
+      internalID: -3052764809382150443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stroke6_0: -1517489810015597963
+      stroke6_1: 7772356407483866650
+      stroke6_10: 4520935096421359219
+      stroke6_11: -6710413750247282849
+      stroke6_12: 2821866728057124296
+      stroke6_13: 8851779010293737124
+      stroke6_14: -2695038471783486592
+      stroke6_15: 6416974436676332620
+      stroke6_16: 5259066650277141159
+      stroke6_17: -3757625113344784204
+      stroke6_18: -8717160479752388923
+      stroke6_19: -3817783336364790393
+      stroke6_2: -1142814819971121675
+      stroke6_20: 4639602347894499876
+      stroke6_21: -8577031766289011902
+      stroke6_22: -2359237095464780108
+      stroke6_23: 4343246801211901292
+      stroke6_24: 2815064142633495380
+      stroke6_25: 1217867832836432935
+      stroke6_26: -1045090621914994280
+      stroke6_27: -8776925439772153555
+      stroke6_28: 8930462645286493254
+      stroke6_29: 3709458261797730401
+      stroke6_3: -4558038961612251905
+      stroke6_30: -9051374166773631583
+      stroke6_31: 9043230436535928802
+      stroke6_32: -8509938199830635026
+      stroke6_33: -6407860916928401629
+      stroke6_34: 2280659276470581877
+      stroke6_35: -1124421301512520789
+      stroke6_36: -3486372855648372269
+      stroke6_37: -3052764809382150443
+      stroke6_4: 6097096671562501019
+      stroke6_5: -3547047896605004546
+      stroke6_6: 630536826894244481
+      stroke6_7: 8541153707333174003
+      stroke6_8: -3536127571336128188
+      stroke6_9: -4273472523952785210
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: a502425b198fce946afb979a5eaa8811
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2732786055462189340
+    second: stroke5_0
+  - first:
+      213: -1752929457626683588
+    second: stroke5_1
+  - first:
+      213: 1313064832362095602
+    second: stroke5_2
+  - first:
+      213: 1501749529066865785
+    second: stroke5_3
+  - first:
+      213: -2135686379386635091
+    second: stroke5_4
+  - first:
+      213: 8812362130765166372
+    second: stroke5_5
+  - first:
+      213: 8623820986486125291
+    second: stroke5_6
+  - first:
+      213: -8133515718189318882
+    second: stroke5_7
+  - first:
+      213: 8563689169997652753
+    second: stroke5_8
+  - first:
+      213: 4959300199046068740
+    second: stroke5_9
+  - first:
+      213: -587662635448213797
+    second: stroke5_10
+  - first:
+      213: -3554606415954928442
+    second: stroke5_11
+  - first:
+      213: 6678102271579117629
+    second: stroke5_12
+  - first:
+      213: 6774326194093009549
+    second: stroke5_13
+  - first:
+      213: 8607988764537517727
+    second: stroke5_14
+  - first:
+      213: 6976015437926305285
+    second: stroke5_15
+  - first:
+      213: -6553514988024619699
+    second: stroke5_16
+  - first:
+      213: 8670513046317087778
+    second: stroke5_17
+  - first:
+      213: 1649721005704794525
+    second: stroke5_18
+  - first:
+      213: -2334760897827588250
+    second: stroke5_19
+  - first:
+      213: -5521777677294337199
+    second: stroke5_20
+  - first:
+      213: 5140519976329319321
+    second: stroke5_21
+  - first:
+      213: 8966119949412670599
+    second: stroke5_22
+  - first:
+      213: -8080802347846159055
+    second: stroke5_23
+  - first:
+      213: -1240979604314253031
+    second: stroke5_24
+  - first:
+      213: 3020850846464955317
+    second: stroke5_25
+  - first:
+      213: -8575797093948321540
+    second: stroke5_26
+  - first:
+      213: -4282974660664747150
+    second: stroke5_27
+  - first:
+      213: 3283222207734564123
+    second: stroke5_28
+  - first:
+      213: -2725530325316071273
+    second: stroke5_29
+  - first:
+      213: -9199862769615324822
+    second: stroke5_30
+  - first:
+      213: 6662258915539272104
+    second: stroke5_31
+  - first:
+      213: 8271013624929389604
+    second: stroke5_32
+  - first:
+      213: -418480755873873436
+    second: stroke5_33
+  - first:
+      213: -6180278901940335921
+    second: stroke5_34
+  - first:
+      213: -7075820767752337505
+    second: stroke5_35
+  - first:
+      213: -5779377136889426907
+    second: stroke5_36
+  - first:
+      213: -7000877550238308502
+    second: stroke5_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stroke5_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1576
+        width: 201
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19f6f2407ecce520800000000000000
+      internalID: 2732786055462189340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1858
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37e7d912f75ca7e0800000000000000
+      internalID: -1752929457626683588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1829
+        width: 139
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f320041281f83210800000000000000
+      internalID: 1313064832362095602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_3
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1489
+        width: 553
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97404a57d3947d410800000000000000
+      internalID: 1501749529066865785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_4
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1543
+        width: 307
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacf405ad848c52e0800000000000000
+      internalID: -2135686379386635091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_5
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1520
+        width: 165
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427bc540baccb4a70800000000000000
+      internalID: 8812362130765166372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1158
+        width: 140
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2701a0f77fda770800000000000000
+      internalID: 8623820986486125291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1167
+        width: 311
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1df44a2c82ff1f80800000000000000
+      internalID: -8133515718189318882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_8
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1201
+        width: 195
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113e1908de558d670800000000000000
+      internalID: 8563689169997652753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_9
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1176
+        width: 120
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a3aaa6149f2d440800000000000000
+      internalID: 4959300199046068740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 794
+        width: 41
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bded65652f338d7f0800000000000000
+      internalID: -587662635448213797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 794
+        width: 85
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc9eac3c408baec0800000000000000
+      internalID: -3554606415954928442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_12
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 793
+        width: 105
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38d33742a26dac50800000000000000
+      internalID: 6678102271579117629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 793
+        width: 91
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8aa98718cd330e50800000000000000
+      internalID: 6774326194093009549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_14
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 817
+        width: 112
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96ffcc9c28b57770800000000000000
+      internalID: 8607988764537517727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_15
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 818
+        width: 110
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e0d3d8419cfc060800000000000000
+      internalID: 6976015437926305285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_16
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 818
+        width: 85
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d189427dc3d05a0800000000000000
+      internalID: -6553514988024619699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_17
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 818
+        width: 110
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cbe126da9d35870800000000000000
+      internalID: 8670513046317087778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_18
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 818
+        width: 109
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91d88b938cf4e610800000000000000
+      internalID: 1649721005704794525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_19
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 818
+        width: 109
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667b3816553499fd0800000000000000
+      internalID: -2334760897827588250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_20
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 818
+        width: 106
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15380384574be53b0800000000000000
+      internalID: -5521777677294337199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_21
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 818
+        width: 109
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99398edceabc65740800000000000000
+      internalID: 5140519976329319321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_22
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 596
+        width: 25
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c1946e69e0e6c70800000000000000
+      internalID: 8966119949412670599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_23
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 598
+        width: 167
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135bc7c14193bdf80800000000000000
+      internalID: -8080802347846159055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_24
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 594
+        width: 26
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9191857ff9727cee0800000000000000
+      internalID: -1240979604314253031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_25
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 596
+        width: 25
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b35bf6f6d73ce920800000000000000
+      internalID: 3020850846464955317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_26
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 588
+        width: 212
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf01265caf5acf880800000000000000
+      internalID: -8575797093948321540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_27
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 584
+        width: 165
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b14110d31df84c0800000000000000
+      internalID: -4282974660664747150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_28
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 581
+        width: 172
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1541b2e339509d20800000000000000
+      internalID: 3283222207734564123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_29
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 6
+        width: 365
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7901bfe0c98fc2ad0800000000000000
+      internalID: -2725530325316071273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_30
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 6
+        width: 131
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69bcb2dd85835080800000000000000
+      internalID: -9199862769615324822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_31
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 6
+        width: 73
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1c56e7f29157c50800000000000000
+      internalID: 6662258915539272104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_32
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 12
+        width: 55
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c0556f11b88c270800000000000000
+      internalID: 8271013624929389604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_33
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 12
+        width: 114
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e10dc048f1413af0800000000000000
+      internalID: -418480755873873436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_34
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 232
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca410d451d3b3aa0800000000000000
+      internalID: -6180278901940335921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_35
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 226
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f974ac34082adcd90800000000000000
+      internalID: -7075820767752337505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_36
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 24
+        width: 71
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c01bc4d178bcfa0800000000000000
+      internalID: -5779377136889426907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stroke5_37
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 30
+        width: 72
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67e906d5f2e7de90800000000000000
+      internalID: -7000877550238308502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stroke5_0: 2732786055462189340
+      stroke5_1: -1752929457626683588
+      stroke5_10: -587662635448213797
+      stroke5_11: -3554606415954928442
+      stroke5_12: 6678102271579117629
+      stroke5_13: 6774326194093009549
+      stroke5_14: 8607988764537517727
+      stroke5_15: 6976015437926305285
+      stroke5_16: -6553514988024619699
+      stroke5_17: 8670513046317087778
+      stroke5_18: 1649721005704794525
+      stroke5_19: -2334760897827588250
+      stroke5_2: 1313064832362095602
+      stroke5_20: -5521777677294337199
+      stroke5_21: 5140519976329319321
+      stroke5_22: 8966119949412670599
+      stroke5_23: -8080802347846159055
+      stroke5_24: -1240979604314253031
+      stroke5_25: 3020850846464955317
+      stroke5_26: -8575797093948321540
+      stroke5_27: -4282974660664747150
+      stroke5_28: 3283222207734564123
+      stroke5_29: -2725530325316071273
+      stroke5_3: 1501749529066865785
+      stroke5_30: -9199862769615324822
+      stroke5_31: 6662258915539272104
+      stroke5_32: 8271013624929389604
+      stroke5_33: -418480755873873436
+      stroke5_34: -6180278901940335921
+      stroke5_35: -7075820767752337505
+      stroke5_36: -5779377136889426907
+      stroke5_37: -7000877550238308502
+      stroke5_4: -2135686379386635091
+      stroke5_5: 8812362130765166372
+      stroke5_6: 8623820986486125291
+      stroke5_7: -8133515718189318882
+      stroke5_8: 8563689169997652753
+      stroke5_9: 4959300199046068740
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

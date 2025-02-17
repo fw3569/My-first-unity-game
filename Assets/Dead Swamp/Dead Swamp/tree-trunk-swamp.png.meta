@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: f10dba77fab47b745b33d29b7f38fb0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7671420534842005343
+    second: tree-trunk-swamp_0
+  - first:
+      213: 1751707705442675825
+    second: tree-trunk-swamp_1
+  - first:
+      213: 3982158711436698998
+    second: tree-trunk-swamp_2
+  - first:
+      213: 7784057258492571667
+    second: tree-trunk-swamp_3
+  - first:
+      213: -9067736427076532055
+    second: tree-trunk-swamp_4
+  - first:
+      213: 7966734394223773945
+    second: tree-trunk-swamp_5
+  - first:
+      213: 5782940520505397896
+    second: tree-trunk-swamp_6
+  - first:
+      213: -4138074846362924978
+    second: tree-trunk-swamp_7
+  - first:
+      213: -6577002963442667062
+    second: tree-trunk-swamp_8
+  - first:
+      213: 7835749032354802573
+    second: tree-trunk-swamp_9
+  - first:
+      213: -6071784925634385600
+    second: tree-trunk-swamp_10
+  - first:
+      213: 1260759767570120909
+    second: tree-trunk-swamp_11
+  - first:
+      213: -8276416670004941465
+    second: tree-trunk-swamp_12
+  - first:
+      213: 6861454943583334947
+    second: tree-trunk-swamp_13
+  - first:
+      213: -4977357512897887699
+    second: tree-trunk-swamp_14
+  - first:
+      213: 6646372722704634157
+    second: tree-trunk-swamp_15
+  - first:
+      213: -7540811743611593871
+    second: tree-trunk-swamp_16
+  - first:
+      213: -6788964106016733238
+    second: tree-trunk-swamp_17
+  - first:
+      213: 5867788615265225095
+    second: tree-trunk-swamp_18
+  - first:
+      213: -7422638549175056465
+    second: tree-trunk-swamp_19
+  - first:
+      213: -4967131390299921877
+    second: tree-trunk-swamp_20
+  - first:
+      213: 1451046945184004877
+    second: tree-trunk-swamp_21
+  - first:
+      213: 2974358017224992987
+    second: tree-trunk-swamp_22
+  - first:
+      213: -6709635130192343214
+    second: tree-trunk-swamp_23
+  - first:
+      213: 8366837282321722573
+    second: tree-trunk-swamp_24
+  - first:
+      213: -3259856147578286268
+    second: tree-trunk-swamp_25
+  - first:
+      213: -8063434902152287443
+    second: tree-trunk-swamp_26
+  - first:
+      213: 2065983972321266563
+    second: tree-trunk-swamp_27
+  - first:
+      213: -2618327391402291950
+    second: tree-trunk-swamp_28
+  - first:
+      213: 557525257650896721
+    second: tree-trunk-swamp_29
+  - first:
+      213: -8828539779605891260
+    second: tree-trunk-swamp_30
+  - first:
+      213: 4385254525819416059
+    second: tree-trunk-swamp_31
+  - first:
+      213: -8441634498999035191
+    second: tree-trunk-swamp_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tree-trunk-swamp_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1375
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5715edd45c567a60800000000000000
+      internalID: 7671420534842005343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ca93d80e05f4810800000000000000
+      internalID: 1751707705442675825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1375
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675696aef38734730800000000000000
+      internalID: 3982158711436698998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1267
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31030cbb5d6860c60800000000000000
+      internalID: 7784057258492571667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1267
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8cb3333cde82280800000000000000
+      internalID: -9067736427076532055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1269
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f84893d8b68f8e60800000000000000
+      internalID: 7966734394223773945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1268
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882dfe993c1214050800000000000000
+      internalID: 5782940520505397896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1269
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e480f880ada9296c0800000000000000
+      internalID: -4138074846362924978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1258
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1fe45b6aac9b4a0800000000000000
+      internalID: -6577002963442667062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1258
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b6e96ba3c2ebc60800000000000000
+      internalID: 7835749032354802573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1258
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049adf2a7cfacbba0800000000000000
+      internalID: -6071784925634385600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1258
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc00f1d245e1f7110800000000000000
+      internalID: 1260759767570120909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1247
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76deb3393e2442d80800000000000000
+      internalID: -8276416670004941465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1250
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322f1aaeae8c83f50800000000000000
+      internalID: 6861454943583334947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1249
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22899396bfdceab0800000000000000
+      internalID: -4977357512897887699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1258
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21d7adf6c8ac3c50800000000000000
+      internalID: 6646372722704634157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1253
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bdfef0ca7a95790800000000000000
+      internalID: -7540811743611593871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 959
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7cef37d11c8c1a0800000000000000
+      internalID: -6788964106016733238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 913
+        width: 187
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78907fd18a29e6150800000000000000
+      internalID: 5867788615265225095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 895
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7cc4cf09d7df890800000000000000
+      internalID: -7422638549175056465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 848
+        width: 188
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b222b784154311bb0800000000000000
+      internalID: -4967131390299921877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 180
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bbb183287232410800000000000000
+      internalID: 1451046945184004877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 717
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8e78b9bda074920800000000000000
+      internalID: 2974358017224992987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_23
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 703
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f4764f56692e2a0800000000000000
+      internalID: -6709635130192343214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 636
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcce74acd2afc1470800000000000000
+      internalID: 8366837282321722573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 144
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f09b0fa1aa2c2d0800000000000000
+      internalID: -3259856147578286268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_26
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 583
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2be9bbadace81090800000000000000
+      internalID: -8063434902152287443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_27
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 549
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b0cdd0a79dbac10800000000000000
+      internalID: 2065983972321266563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 506
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d8ac92c15d9abd0800000000000000
+      internalID: -2618327391402291950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 351
+        width: 79
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ff697944abcb700800000000000000
+      internalID: 557525257650896721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 319
+        width: 182
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4477f2798d9ba7580800000000000000
+      internalID: -8828539779605891260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 161
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfde325d1cd8bdc30800000000000000
+      internalID: 4385254525819416059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree-trunk-swamp_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cada7b162a49da80800000000000000
+      internalID: -8441634498999035191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tree-trunk-swamp_0: 7671420534842005343
+      tree-trunk-swamp_1: 1751707705442675825
+      tree-trunk-swamp_10: -6071784925634385600
+      tree-trunk-swamp_11: 1260759767570120909
+      tree-trunk-swamp_12: -8276416670004941465
+      tree-trunk-swamp_13: 6861454943583334947
+      tree-trunk-swamp_14: -4977357512897887699
+      tree-trunk-swamp_15: 6646372722704634157
+      tree-trunk-swamp_16: -7540811743611593871
+      tree-trunk-swamp_17: -6788964106016733238
+      tree-trunk-swamp_18: 5867788615265225095
+      tree-trunk-swamp_19: -7422638549175056465
+      tree-trunk-swamp_2: 3982158711436698998
+      tree-trunk-swamp_20: -4967131390299921877
+      tree-trunk-swamp_21: 1451046945184004877
+      tree-trunk-swamp_22: 2974358017224992987
+      tree-trunk-swamp_23: -6709635130192343214
+      tree-trunk-swamp_24: 8366837282321722573
+      tree-trunk-swamp_25: -3259856147578286268
+      tree-trunk-swamp_26: -8063434902152287443
+      tree-trunk-swamp_27: 2065983972321266563
+      tree-trunk-swamp_28: -2618327391402291950
+      tree-trunk-swamp_29: 557525257650896721
+      tree-trunk-swamp_3: 7784057258492571667
+      tree-trunk-swamp_30: -8828539779605891260
+      tree-trunk-swamp_31: 4385254525819416059
+      tree-trunk-swamp_32: -8441634498999035191
+      tree-trunk-swamp_4: -9067736427076532055
+      tree-trunk-swamp_5: 7966734394223773945
+      tree-trunk-swamp_6: 5782940520505397896
+      tree-trunk-swamp_7: -4138074846362924978
+      tree-trunk-swamp_8: -6577002963442667062
+      tree-trunk-swamp_9: 7835749032354802573
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

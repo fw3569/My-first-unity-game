@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Visualization
+  - Light
+  - Visualization2Wrap
+  - Visualization4Wrap
+  - AttackBox
+  - Enemy
+  - DropItem
+  - Canvas
+  - Manager
+  - Background
+  - BackgroundEdge
+  - BackgroundEdgeEx
+  - ItemSlot
+  - SkillSlot
+  - EquipSlot
+  - EnvMask
+  - EnvMaskEx
+  - BackgroundEdgeEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Creature
+  - Virtual
+  - Background
+  - GenObj
+  - Object
+  - Background-1
+  - Creature-1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1405091795
+    locked: 0
+  - name: Background-2
+    uniqueID: 3600343043
+    locked: 0
+  - name: -2
+    uniqueID: 357112281
+    locked: 0
+  - name: Background-1
+    uniqueID: 662183849
+    locked: 0
+  - name: -1
+    uniqueID: 4071123235
+    locked: 0
+  - name: Background0
+    uniqueID: 51275609
+    locked: 0
+  - name: 0
+    uniqueID: 2663645643
+    locked: 0
+  - name: Background1
+    uniqueID: 3648197455
+    locked: 0
+  - name: 1
+    uniqueID: 2863601365
+    locked: 0
+  - name: Background2
+    uniqueID: 3859052199
+    locked: 0
+  - name: 2
+    uniqueID: 1721209493
+    locked: 0
+  - name: Background3
+    uniqueID: 2999478551
+    locked: 0
+  - name: 3
+    uniqueID: 2735564117
+    locked: 0
+  - name: Background4
+    uniqueID: 4274179649
+    locked: 0
+  - name: 4
+    uniqueID: 1036357937
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GenObj
+    uniqueID: 3833289457
+    locked: 0
+  - name: EnvMask
+    uniqueID: 949491861
+    locked: 0
+  - name: DynamicUIBackground
+    uniqueID: 1704372805
+    locked: 0
+  - name: DynamicUI
+    uniqueID: 2713460771
+    locked: 0
+  - name: UI1
+    uniqueID: 1381622591
+    locked: 0
+  - name: UI2
+    uniqueID: 3878946101
+    locked: 0
+  - name: UI3
+    uniqueID: 3641549721
+    locked: 0
+  - name: UI4
+    uniqueID: 457150993
+    locked: 0
+  - name: DynamicUI2
+    uniqueID: 161668999
+    locked: 0
+  m_RenderingLayers:
+  - Default
