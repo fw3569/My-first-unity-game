@@ -78,10 +78,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
+    maxTextureSize: 512
+    resizeAlgorithm: 1
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -122,12 +122,12 @@ TextureImporter:
       name: Knight3_0
       rect:
         serializedVersion: 2
-        x: 198
-        y: 361
+        x: 96
+        y: 633
         width: 467
         height: 218
       alignment: 9
-      pivot: {x: 0.12878111, y: 0.4837652}
+      pivot: {x: 0.12847966, y: 0.48394495}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -144,12 +144,12 @@ TextureImporter:
       name: Knight3_1
       rect:
         serializedVersion: 2
-        x: 843
+        x: 269
         y: 286
         width: 143
-        height: 257
+        height: 256
       alignment: 9
-      pivot: {x: 0.6753352, y: 0.8153434}
+      pivot: {x: 0.6748252, y: 0.81640625}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -166,7 +166,7 @@ TextureImporter:
       name: Knight3_2
       rect:
         serializedVersion: 2
-        x: 1423
+        x: 593
         y: 205
         width: 365
         height: 673

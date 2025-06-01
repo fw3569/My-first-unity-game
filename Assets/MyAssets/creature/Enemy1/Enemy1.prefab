@@ -148,7 +148,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -995825184, guid: b631ed305dfd43c488e0f8edf5c829bc, type: 3}
+  m_Sprite: {fileID: -7282886668606283007, guid: 7956b3e925672e740ad45f6cd1b80d86, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -809,6 +809,7 @@ MonoBehaviour:
   remain_stun_time: 0
   stun_effect: {fileID: 0}
   is_in_knock_out: 0
+  can_knock_out: 1
   is_in_knock_out_backswing: 0
   knock_out_effect: {fileID: 0}
   knock_back_distance: 0.2
@@ -843,6 +844,7 @@ MonoBehaviour:
   tat: 0
   tat_rate: 1
   tdf_rate: 1
+  buffs: []
   weapon_equip:
     name: 
     atk: 0
@@ -910,16 +912,22 @@ MonoBehaviour:
   hate_target: {fileID: 0}
   sprite_type: 1
   default_toward: 1
-  hate_area: {fileID: 3855954019648164726}
   attack_areas:
   - {fileID: 5479339622454627587}
   bodywrap: {fileID: 7814901245216801789}
   body: {fileID: 1540030827452874012}
   weaponwrap: {fileID: 2040303623393138300}
   weapon: {fileID: 6366840563918762283}
+  canvas: {fileID: 504668499776694619}
+  life_gauge: {fileID: 422387684053660352}
+  magic_gauge: {fileID: 0}
+  buff_gauge: {fileID: 0}
+  stun_gauge: {fileID: 5523886821421129426}
+  instanced_prefabs: {fileID: 4436803186905541018}
   sprite_renders:
   - fs: 0
     se: {fileID: 8670435902240670664}
+  addition_sprite_renders: []
   act_list_ori:
   - Move
   - Attack
@@ -937,13 +945,6 @@ MonoBehaviour:
   next_item_release_time: 0
   next_action: 
   next_magic: {fileID: 0}
-  buffs: []
-  canvas: {fileID: 504668499776694619}
-  life_gauge: {fileID: 422387684053660352}
-  magic_gauge: {fileID: 0}
-  buff_gauge: {fileID: 0}
-  stun_gauge: {fileID: 5523886821421129426}
-  instanced_prefabs: {fileID: 4436803186905541018}
   colliders_tmp: []
   colliders: []
   cur_background_level: 0

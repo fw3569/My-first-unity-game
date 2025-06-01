@@ -2,8 +2,6 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 using System.Collections.Generic;
-using System.Linq;
-using NUnit.Framework.Internal;
 
 public class InteractiveControl : MonoBehaviour
 {

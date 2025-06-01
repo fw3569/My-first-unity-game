@@ -158,7 +158,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 3.6499999, y: 6.7332854}
+  m_Size: {x: 0.81473213, y: 1.5022322}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -202,8 +202,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.369863, y: 0.4205052}
-    oldSize: {x: 0.81473213, y: 1.5029656}
-    newSize: {x: 3.6499999, y: 6.7332854}
+    oldSize: {x: 0.81473213, y: 1.5022322}
+    newSize: {x: 0.81473213, y: 1.5022322}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -560,7 +560,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.12878111, y: 0.4837652}
-    oldSize: {x: 1.0424107, y: 0.48684472}
+    oldSize: {x: 1.0424107, y: 0.48660713}
     newSize: {x: 4.6699996, y: 2.1810644}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1108,6 +1108,7 @@ MonoBehaviour:
   tat: 0
   tat_rate: 1
   tdf_rate: 1
+  buffs: []
   weapon_equip:
     name: 
     atk: 0
@@ -1175,13 +1176,18 @@ MonoBehaviour:
   hate_target: {fileID: 0}
   sprite_type: 1
   default_toward: 1
-  hate_area: {fileID: 4227535804473516457}
   attack_areas:
   - {fileID: 5236252656823544476}
   bodywrap: {fileID: 3264880619363435738}
   body: {fileID: 269032377582873636}
   weaponwrap: {fileID: 7272274850705570301}
   weapon: {fileID: 2914362432616886739}
+  canvas: {fileID: 2794356390259139322}
+  life_gauge: {fileID: 8732519952749356414}
+  magic_gauge: {fileID: 0}
+  buff_gauge: {fileID: 0}
+  stun_gauge: {fileID: 6410442411983530727}
+  instanced_prefabs: {fileID: 0}
   sprite_renders:
   - fs: 0
     se: {fileID: 2580880846760865766}
@@ -1207,13 +1213,6 @@ MonoBehaviour:
   next_item_release_time: 0
   next_action: 
   next_magic: {fileID: 0}
-  buffs: []
-  canvas: {fileID: 2794356390259139322}
-  life_gauge: {fileID: 8732519952749356414}
-  magic_gauge: {fileID: 0}
-  buff_gauge: {fileID: 0}
-  stun_gauge: {fileID: 6410442411983530727}
-  instanced_prefabs: {fileID: 0}
   colliders_tmp: []
   colliders: []
   cur_background_level: 0

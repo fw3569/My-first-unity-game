@@ -67,7 +67,7 @@ MonoBehaviour:
     mat: 0
     mdf: 0
     tat: 0
-    toughness: 0
+    tough: 0
     life: 0
     magic: 0
     part: 2
