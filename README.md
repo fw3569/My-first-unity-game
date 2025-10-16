@@ -6,6 +6,11 @@
 
 玩家人数：１人
 
+游玩录像：
+https://drive.google.com/file/d/1lGRsrOR51Qp3196lhv7DVh9B4rfYBzGg/view?usp=sharing
+
+游戏文件：解压Bin.rar即可试玩
+
 操作说明：  
 方向键↑↓←→：移动  
 Shift：朝向锁定  
@@ -30,6 +35,3 @@ P：保存菜单
 
 代码说明：
 代码都在".\Assets\MyAssets"目录下。基本上从GameManager.cs（菜单控制、全局数据、保存）、Creature.cs、Player.cs、Item.cs、AttackBehaviour.cs开始看好。BackgroundControl.cs是玩家当前所属区域的更新。ItemManager.cs是拥有道具的更新和道具预制件的实例管理。EnvMaskShader.shader是随光强度变透明的材质。为了能使Player流畅的运动、可以看下Animator Controller中的设定。其他就没有了。
-
-游玩录像：
-https://drive.google.com/file/d/1lGRsrOR51Qp3196lhv7DVh9B4rfYBzGg/view?usp=sharing
